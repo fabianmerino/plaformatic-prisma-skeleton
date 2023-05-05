@@ -25,6 +25,3 @@ tags
 
 # clinicjs
 .clinic/
-
-# ENV
-*.env
